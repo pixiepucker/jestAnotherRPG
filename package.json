@@ -1,0 +1,22 @@
+{
+  "name": "jestanotherrpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixiepucker/jestAnotherRPG.git"
+  },
+  "author": "pixiepucker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixiepucker/jestAnotherRPG/issues"
+  },
+  "homepage": "https://github.com/pixiepucker/jestAnotherRPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
