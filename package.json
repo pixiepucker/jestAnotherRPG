@@ -18,5 +18,8 @@
   "homepage": "https://github.com/pixiepucker/jestAnotherRPG#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.2"
   }
 }
